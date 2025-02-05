@@ -14,7 +14,6 @@ fetch(`https://kea-alt-del.dk/t7/api/products/${productId}`)
           class="productImage" 
         />
       </figure>
-
       <section class="productDetails">
         <h2 class="productName">${data.productdisplayname}</h2>
         <div>
